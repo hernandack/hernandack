@@ -1,4 +1,4 @@
-Front End Developer Lead, Hardrock Guitarist, Poets, Funk Bassist, Godot Game Developer, Webdev
+Front End Developer Lead, Vue and Nuxt.js, React.js, CSS expert, Hardrock Guitarist, Poets, Funk Bassist, Godot Game Developer, Webdev
 
 <!---
 hernandack/hernandack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
